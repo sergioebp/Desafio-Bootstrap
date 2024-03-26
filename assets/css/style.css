@@ -1,0 +1,13 @@
+body {
+    font-family: 'roboto', 'Times New Roman', Times, sans-serif, serif;
+}
+.imgsize {
+    width: 80%;
+    height: auto;
+    margin-top: 1rem;
+}
+#imgfooter {
+    width: 6rem;
+    max-width: 70vw;
+    margin: 1rem 0;
+}
